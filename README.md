@@ -34,3 +34,8 @@ If we migrate the code to suport translation
 The new percentage will be: 1.09% completed
 
 <p><img src="/images/percentage2.png" width="520px"/></p>
+
+
+We can show word difference between two languages
+
+<p><img src="/images/words.png" width="520px"/></p>
