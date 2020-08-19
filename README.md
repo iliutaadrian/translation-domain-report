@@ -38,4 +38,4 @@ The new percentage will be: 1.09% completed
 
 We can show word difference between two languages
 
-<p><img src="/images/words.png" width="520px"/></p>
+<p><img src="/images/words.png" width="820px"/></p>
